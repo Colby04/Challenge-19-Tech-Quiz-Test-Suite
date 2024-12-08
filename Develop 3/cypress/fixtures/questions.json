@@ -1,27 +1,269 @@
 [
     {
+        "_id": "5f0f4f3b7f3b9b0017f3b1b1",
         "question": "What is the capital of Australia?",
-        "choices": ["Canberra", "Melbourne", "Sydney", "Adelaide"],
-        "answer": "Canberra"
+        "answers": [
+            {
+            "text": "Canberra",
+            "isCorrect": true,
+            "_id": "5f0f4f3b7f3b9b0017f3b1b2"
+        
     },
     {
+        "text": "Melbourne",
+        "isCorrect": false,
+        "_id": "5f0f4f3b7f3b9b0017f3b1b3"
+    },
+    {
+        "text": "Sydney",
+        "isCorrect": false,
+        "_id": "5f0f4f3b7f3b9b0017f3b1b4"
+    },
+    {
+        "text": "Adelaide",
+        "isCorrect": false,
+        "_id": "5f0f4f3b7f3b9b0017f3b1b5"
+    }
+    ]
+    },
+    {
+        "_id": "5f0f4f3b7f3b9b0017f3b1b6",
         "question": "What is Melbourne's indigenous name?",
-        "choices": ["Tarndanya", "Meanjin", "Naarm", "Eora"],
-        "answer": "Naarm"
+        "answer": [
+            {
+            "text": "Naarm",
+            "isCorrect": true,
+            "_id": "5f0f4f3b7f3b9b0017f3b1b7"
+        },
+        {
+            "text": "Tarndanya",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1b8"
+        },
+        {
+            "text": "Meanjin",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1b9"
+        },
+        {
+            "text": "Eora",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1ba"
+        }
+        ]
+
     },
     {
+        "_id": "5f0f4f3b7f3b9b0017f3b1b5",
         "question": "What is the most venomous snake in Australia?",
-        "choices": ["Inland Taipan", "Boomslang", "Bushmaster", "King cobra"],
-        "answer": "Inland Taipan"
+        "answer": [
+            {
+            "text": "Inland Taipan",
+            "isCorrect": true,
+            "_id": "5f0f4f3b7f3b9b0017f3b1bb"
+        },
+        {
+            "text": "Boomslang",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1bd"
+        },
+        {
+            "text": "Bushmaster",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1be"
+        },
+        {
+            "text": "King cobra",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1bf"
+        }
+        ]
     },
     {
+        "_id": "5f0f4f3b7f3b9b0017f3b1c4",
         "question": "Who played Joan Ferguson in the popular Australian reboot 'Wentworth'?",
-        "choices": ["Maggie Fitzpatrick", "Pamela Rabe", "Cate Blanchett", "Toni Collette"],
-        "answer": "Pamela Rabe"
+        "answer": [
+            {
+            "text": "Pamela Rabe",
+            "isCorrect": true,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c0"
+        },
+        {
+            "text": "Maggie Fitzpatrick",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c1"
+        },
+        {
+            "text": "Cate Blanchett",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c2"
+        },
+        {
+            "text": "Toni Collette",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c3"
+        }
+        ]
     },
     {
+        "_id": "5f0f4f3b7f3b9b0017f3b1c9",
         "question": "What is the length of the Great Ocean Road?",
         "choices": ["243 km", "107 km", "568 km", "312 km"],
-        "answer": "243 km"
-    }
-]
+        "answer": [
+            {
+            "text": "243 km",
+            "isCorrect": true,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c5"
+        },
+        {
+            "text": "107 km",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c6"
+        },
+        {
+            "text": "568 km",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c7"
+        },
+        {
+            "text": "312 km",
+            "isCorrect": false,
+            "_id": "5f0f4f3b7f3b9b0017f3b1c8"
+        }
+        ]
+    },
+            {
+              "_id": "674077c30ee859166dd23dc3",
+              "question": "What does the // operator do in Python?",
+              "answers": [
+                {
+                  "text": "Performs integer division",
+                  "isCorrect": true,
+                  "_id": "674077c30ee859166dd23dc4"
+                },
+                {
+                  "text": "Performs floating-point division",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dc5"
+                },
+                {
+                  "text": "Calculates the power of a number",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dc6"
+                },
+                {
+                  "text": "Performs a logical AND operation",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dc7"
+                }
+              ]
+            },
+            {
+              "_id": "674077c30ee859166dd23dbe",
+              "question": "Which method is used to remove whitespace from the beginning and end of a string?",
+              "answers": [
+                {
+                  "text": "strip()",
+                  "isCorrect": true,
+                  "_id": "674077c30ee859166dd23dbf"
+                },
+                {
+                  "text": "trim()",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dc0"
+                },
+                {
+                  "text": "clean()",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dc1"
+                },
+                {
+                  "text": "remove()",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dc2"
+                }
+              ]
+            },
+            {
+              "_id": "674077c30ee859166dd23dff",
+              "question": "Which of the following is not a built-in data type in Python?",
+              "answers": [
+                {
+                  "text": "array",
+                  "isCorrect": true,
+                  "_id": "674077c30ee859166dd23e03"
+                },
+                {
+                  "text": "list",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23e00"
+                },
+                {
+                  "text": "dict",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23e01"
+                },
+                {
+                  "text": "tuple",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23e02"
+                }
+              ]
+            },
+            {
+              "_id": "674077c30ee859166dd23df0",
+              "question": "How do you create a tuple in Python?",
+              "answers": [
+                {
+                  "text": "()",
+                  "isCorrect": true,
+                  "_id": "674077c30ee859166dd23df3"
+                },
+                {
+                  "text": "[]",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23df1"
+                },
+                {
+                  "text": "{}",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23df2"
+                },
+          
+                {
+                  "text": "tuple[]",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23df4"
+                }
+              ]
+            },
+            {
+              "_id": "674077c30ee859166dd23daa",
+              "question": "Which of the following is a mutable data type in Python?",
+              "answers": [
+                {
+                  "text": "list",
+                  "isCorrect": true,
+                  "_id": "674077c30ee859166dd23dad"
+                },
+                {
+                  "text": "str",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dab"
+                },
+                {
+                  "text": "tuple",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dac"
+                },
+          
+                {
+                  "text": "int",
+                  "isCorrect": false,
+                  "_id": "674077c30ee859166dd23dae"
+                }
+              ]
+            }
+        ]
+        
+    

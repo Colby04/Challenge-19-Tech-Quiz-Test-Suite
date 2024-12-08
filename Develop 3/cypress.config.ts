@@ -1,4 +1,5 @@
 import { defineConfig } from "cypress";
+import { devServer } from "@cypress/vite-dev-server";
 
 export default defineConfig({
   component: {
@@ -6,6 +7,11 @@ export default defineConfig({
       framework: "react",
       bundler: "vite",
     },
-    specPattern: "cypress/component/**/*.cy.{js,jsx}",
+  },
+
+  e2e: {
+    setupNodeEvents(on, config) {
+      // implement node event listeners here
+    },
   },
 });
