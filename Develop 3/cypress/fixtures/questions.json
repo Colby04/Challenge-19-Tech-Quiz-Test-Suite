@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the capital of Australia?",
+        "choices": ["Canberra", "Melbourne", "Sydney", "Adelaide"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "What is Melbourne's indigenous name?",
+        "choices": ["Tarndanya", "Meanjin", "Naarm", "Eora"],
+        "answer": "Naarm"
+    },
+    {
+        "question": "What is the most venomous snake in Australia?",
+        "choices": ["Inland Taipan", "Boomslang", "Bushmaster", "King cobra"],
+        "answer": "Inland Taipan"
+    },
+    {
+        "question": "Who played Joan Ferguson in the popular Australian reboot 'Wentworth'?",
+        "choices": ["Maggie Fitzpatrick", "Pamela Rabe", "Cate Blanchett", "Toni Collette"],
+        "answer": "Pamela Rabe"
+    },
+    {
+        "question": "What is the length of the Great Ocean Road?",
+        "choices": ["243 km", "107 km", "568 km", "312 km"],
+        "answer": "243 km"
+    }
+]

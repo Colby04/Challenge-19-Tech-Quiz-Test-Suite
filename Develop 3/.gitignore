@@ -135,3 +135,18 @@ dist
 cypress/videos
 cypress/screenshots
 cypress/reports
+
+# Mac OSX
+######################
+.DS_Store
+.svn
+
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+/.awcache/*
+/.cache-loader/*
